@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd98c96-44cc-4e93-9490-917a302729fd" name="Changes" comment="" />
+    <list default="true" id="5fd98c96-44cc-4e93-9490-917a302729fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2Y74xuiiymolX9Gt0JQ9pJUAcsd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +41,7 @@
       <workItem from="1700039045434" duration="26000" />
       <workItem from="1712645648694" duration="18033000" />
       <workItem from="1713690037951" duration="1005000" />
+      <workItem from="1713856650269" duration="1617000" />
     </task>
     <servers />
   </component>
